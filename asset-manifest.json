@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lagrube/cv-deploy/static/css/main.3eaa60ae.chunk.css",
+    "main.js": "/lagrube/cv-deploy/static/js/main.4177ddbf.chunk.js",
+    "main.js.map": "/lagrube/cv-deploy/static/js/main.4177ddbf.chunk.js.map",
+    "runtime-main.js": "/lagrube/cv-deploy/static/js/runtime-main.c24aecfa.js",
+    "runtime-main.js.map": "/lagrube/cv-deploy/static/js/runtime-main.c24aecfa.js.map",
+    "static/js/2.5d5f8711.chunk.js": "/lagrube/cv-deploy/static/js/2.5d5f8711.chunk.js",
+    "static/js/2.5d5f8711.chunk.js.map": "/lagrube/cv-deploy/static/js/2.5d5f8711.chunk.js.map",
+    "index.html": "/lagrube/cv-deploy/index.html",
+    "static/css/main.3eaa60ae.chunk.css.map": "/lagrube/cv-deploy/static/css/main.3eaa60ae.chunk.css.map",
+    "static/js/2.5d5f8711.chunk.js.LICENSE.txt": "/lagrube/cv-deploy/static/js/2.5d5f8711.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/lagrube/cv-deploy/static/media/shape.1d026b20.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c24aecfa.js",
+    "static/js/2.5d5f8711.chunk.js",
+    "static/css/main.3eaa60ae.chunk.css",
+    "static/js/main.4177ddbf.chunk.js"
+  ]
+}
